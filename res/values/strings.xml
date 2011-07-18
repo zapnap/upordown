@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Up or Down?</string>
+  <string name="app_title">Is this site down for everyone?</string>
+  <string name="app_subtitle">( or just me? )</string>
+  <string name="url_example">tumblr.com</string>
+  <string name="submit_btn">Test It!</string>
+  <string name="powered_by">Visit http://DownForEveryoneOrJustMe.com</string>
+</resources>
